@@ -1,1 +1,2 @@
-# D_FF_SV
+This repository demonstrates verification of a D Flip-Flop (DFF) using SystemVerilog.
+The goal of this project is to validate the functionality of a DFF design through a structured testbench, ensuring correctness under various input conditions and clock events.
